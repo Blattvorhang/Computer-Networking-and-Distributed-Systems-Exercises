@@ -2,11 +2,11 @@
 
 Implement a transfer protocol.
 
-<img src="./images/control_channel.png" width="500px">
+<img src="./images/control_channel.png" width="500px" />
 
 *Overview of the protocol flow: Control Channel*
 
 <img src="./images/data_channel.
-png" width="500px">
+png" width="500px" />
 
 *Overview of the protocol flow: Data Channel*
